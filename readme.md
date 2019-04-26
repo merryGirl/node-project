@@ -1,5 +1,10 @@
 
-**修改node文件，需要重启后才能看见效果**
+### 项目描述
+
+> express学习demo
+
+[node网址](http://nodejs.cn/api/)
+[express网址](https://expressjs.com/zh-cn/)
 
 ### 文件描述
 
@@ -21,18 +26,4 @@ res.sendFile('index.html', { root: __dirname });
 > express中间件
 
 
-
-
-
-[node网址](http://nodejs.cn/api/)
-[express网址](https://expressjs.com/zh-cn/starter/basic-routing.html)
-
-#### express
-
-##### express基本路由
-
-[链接](https://expressjs.com/zh-cn/starter/basic-routing.html)
-
-`app.METHOD(PATH, HANDLER)`
-
-* app是express的实例
+**修改node文件，需要重启后才能看见效果**
